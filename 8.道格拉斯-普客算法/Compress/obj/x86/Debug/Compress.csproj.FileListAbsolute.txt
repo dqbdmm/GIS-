@@ -1,0 +1,9 @@
+E:\mine\GIS算法基础\8.道格拉斯-普客算法\Compress\bin\Debug\Compress.exe
+E:\mine\GIS算法基础\8.道格拉斯-普客算法\Compress\bin\Debug\Compress.pdb
+E:\mine\GIS算法基础\8.道格拉斯-普客算法\Compress\obj\x86\Debug\Compress.Form1.resources
+E:\mine\GIS算法基础\8.道格拉斯-普客算法\Compress\obj\x86\Debug\Compress.Properties.Resources.resources
+E:\mine\GIS算法基础\8.道格拉斯-普客算法\Compress\obj\x86\Debug\Compress.csproj.GenerateResource.Cache
+E:\mine\GIS算法基础\8.道格拉斯-普客算法\Compress\obj\x86\Debug\Compress.exe
+E:\mine\GIS算法基础\8.道格拉斯-普客算法\Compress\obj\x86\Debug\Compress.pdb
+E:\mine\GIS算法基础\8.道格拉斯-普客算法\Compress\obj\x86\Debug\Compress.csprojAssemblyReference.cache
+E:\mine\GIS算法基础\8.道格拉斯-普客算法\Compress\obj\x86\Debug\Compress.csproj.CoreCompileInputs.cache
